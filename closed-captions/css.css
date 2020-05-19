@@ -136,7 +136,12 @@ body {
 }
 
 
-.animated {
+.p0.on.animated::after {
+    content: '';
+    animation-name: talk;
+    animation-duration: 6s;
+    animation-iteration-count: 1;
+    position: absolute;
     background: #DC6D35;
     border: .1em solid white;
     border-radius: 100%;
@@ -144,19 +149,15 @@ body {
     height: 1em;
     position: absolute;
     top: 1px;
+    right: 20px;
     transition: all 0.4s ease;
     opacity: 1;
     z-index: 2;
 }
 
-
-.p0.on .animated {
-    background-color: aqua;
-    animation-name: talk;
-    animation-duration: 6s;
-    animation-iteration-count: 1;
+.p0.off.animated::after {
+    opacity: 0;
 }
-
 
 @keyframes talk {
     0%,
@@ -186,6 +187,7 @@ p {
     content: "[Interviewer] ";
     color: white;
 }
+
 
 .voice2 {
     font-family: "brenner sans";
