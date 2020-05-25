@@ -135,8 +135,8 @@ body {
     margin: auto;
 }
 
-/**
-.p0.on.animated::after {
+
+/**.p0.on.animated::after {
     content: '';
     position: absolute;
     background: #DC6D35;
@@ -159,17 +159,20 @@ body {
 
 .p0.on.block::after {
     content: '';
-    position: absolute;
+    position: relative;
+    background: #DC6D35;
+    border-radius: 50%;
     width: 25px;
     height: 25px;
     background-color: red;
     opacity: 1;
+    z-index: 2;
+    top: 1px;
 }
 
 .p0.off.block {
     opacity: 0;
 }
-
 
 
 @keyframes talk {
@@ -237,9 +240,6 @@ p {
 
 body.sound0 {
     animation: shake 0.8s cubic-bezier(.36, .07, .19, .97) both;
-    transform: translate3d(0, 0, 0);
-    backface-visibility: hidden;
-    perspective: 1000px;
 }
 
 
