@@ -1,5 +1,3 @@
-// Hier kan je tijden toevoegen in secondes
-// Op die mommenten komt er een class op de body.
 sounds = [
     0,
     9,
@@ -13,7 +11,6 @@ sounds = [
     25.8,
     31,
     32,
-    32.5,
     33,
     34,
     36,
@@ -22,9 +19,7 @@ sounds = [
     39,
     42,
     43,
-    43.5,
-    44.5,
-    47.5,
+    44,
     48,
     50.5,
     51.5,
@@ -50,7 +45,7 @@ sounds = [
     96,
     96.5,
     97,
-    102.5,
+    103.5,
     104,
     105,
     106,
