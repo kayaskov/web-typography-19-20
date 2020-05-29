@@ -25,7 +25,7 @@ Omdat Darice zelf aan gaf dat ze typografisch onderscheid tussen personen fijn v
 
 Voor Darice was het lastig om te zien waar de stemmen vandaan kwamen. Hiervoor heb ik een experiment bedacht. Ik heb een stip gezet bij het object waar het geluid vandaan kwam. Wanneer deze van buiten het scherm komt staat hij buiten het scherm links bovenin. De stip is groter wanneer hij buiten het beeld staat omdat als je focused op te film moet wat er buiten staat groter zijn anders zie je het niet. Dit ontdekte ik toen ik ze nog klein had. Wanneer de stem onscreen is is hij kleiner om zo niet te veel van het scherm te bedekken. De stippen bewegen mee met de stem (size) om zo de connectie met de stem te maken. Ook heb ik de stip een witte rand gegeven zodat hij op elke achtergrond goed zichtbaar zou zijn.
 
-![afbeelding van kleine stip](screenshots/kleinestip.png)
+![afbeelding van kleine stip](screenshots/kleinstip.png)
 
 In een test moment heb ik Darice hier plaatje van laten zien, haar interesse was gewekt en ze wilde hier meer van zien en ook Vasilis was enthousiast. Het heeft mij super veel tijd gekost dit in mijn code te krijgen  (Thanks Chelsea!) en hierdoor heb ik het niet kunnen testen met Darice. Wel ben ik blij dat ik het experiment heb gedaan en denk ik wel degelijk dat het van toegevoegde waarde is dat ik dit heb gedaan. 
 
