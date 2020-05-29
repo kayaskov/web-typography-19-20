@@ -55,7 +55,7 @@ Tijdens het testen viel mijn tekst buiten het beeld van Darice en sowieso vondt 
 Ook had ze bij andere al goede dingen gezien bij het stukje waar 3x de zelfde tekst achter elkaar wordt gezegd dus dit wou ze ook nog graag bij mij zien.
 
 
-## Principles
+## Exclusive design principles
 
 ![afbeelding van 3x](screenshots/studysituation.png)
 Omdat Darice ooit heeft kunnen horen vult ze zelf sommige geluiden in. Hier is ze anders in dan andere mensen die niet kunnen horen. Dit heb ik in mijn voordeel laten werken door alleen de onverwachte geluiden er in te doen.
